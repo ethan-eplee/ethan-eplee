@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with how to spice up my Github profile!
 - 💬 Ask me about my experience in engineering, finance or data science!
 - 📫 How to reach me: https://www.linkedin.com/in/eepinlee/
-- ⚡ Fun fact: I ride bikes and I fix bikes!
+- ⚡ Fun fact: I'm red-green colourblind!
 
 [![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethan-eplee&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
