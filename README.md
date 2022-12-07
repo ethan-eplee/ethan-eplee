@@ -6,5 +6,6 @@
 - 💬 Ask me about my experience in engineering, finance, data science or projects!
 - 📫 How to reach me: https://www.linkedin.com/in/eepinlee/
 - ⚡ Fun fact: I'm red-green colourblind!
+- 🦈 Website is finally out! Please visit www.ethan-eplee.com 
 
 [![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=ethan-eplee&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
